@@ -22,7 +22,7 @@ sudo update-alternatives --install /usr/bin/ninja ninja /usr/local/bin/ninja 1 -
 git clone https://github.com/waleedrazakhan92/face_attribute_manipulation.git
 cd face_attribute_manipulation/
 ```
-Create a folder **checkpoints** in **HFGI** directory. And place **ckpt.pt**, **shape_predictor_68_face_landmarks.dat** and  **dlib_face_recognition_resnet_model_v1.dat** in the checkpoints folder.
+Create a folder **checkpoints** in **HFGI** directory. And place **ckpt.pt**, **shape_predictor_68_face_landmarks.dat** in the checkpoints folder.
 
 ```
 # place all the checkpoint files in the directory in HFGI/checkpoints/ 
